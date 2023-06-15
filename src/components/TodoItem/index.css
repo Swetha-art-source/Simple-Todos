@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.eachListContainer {
+  white-space: nowrap;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #000000;
+  margin-right: 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.btn {
+  background-color: transparent;
+  border: 2px solid #ff0b37;
+  color: #ff0b37;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-left: 30px;
+  align-items: flex-end;
+  border-radius: 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
